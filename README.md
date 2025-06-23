@@ -49,15 +49,7 @@
 
 ---
 
-### 📸 Sample Screenshots (WeConnect)
 
-> _Add your app screenshots here:_
-
-| Home Page | Profile Page |
-|-----------|-------------|
-| ![Home](./path-to-homepage-screenshot.png) | ![Profile](./path-to-profile-screenshot.png) |
-
----
 
 ### 📊 GitHub Stats
 
