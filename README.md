@@ -37,14 +37,25 @@
 | **Vegetable Detector** | Image classifier using TensorFlow | [🔗 GitHub](https://github.com/sreelaltom/Vegetable-And-Fruit-Detector) |
 | **CarePlus** | Django backend + food classifier ML | [🔗 GitHub](https://github.com/sreelaltom/CarePlus) |
 | **HR Dashboard** | Tableau dashboard for HR insights | [🔗 Tableau](https://public.tableau.com/app/profile/sreelal.s.s/viz/HRDashbord_17247417930840/HRSummary) |
+| **WeConnect (Social Media App)** | A full-stack social media app built with **FastAPI (backend)** and **React + Tailwind (frontend)**. Supports authentication, posts, likes, comments, and follow/unfollow features. | [🔗 GitHub](https://github.com/sreelaltom/WeConnect) |
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,tensorflow,git,html,css,js,react,mysql,sqlite,tableau" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,tailwind,sqlite,js,html,css,git,vercel" />
 </p>
+
+---
+
+### 📸 Sample Screenshots (WeConnect)
+
+> _Add your app screenshots here:_
+
+| Home Page | Profile Page |
+|-----------|-------------|
+| ![Home](./path-to-homepage-screenshot.png) | ![Profile](./path-to-profile-screenshot.png) |
 
 ---
 
@@ -66,4 +77,3 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=150&section=footer"/>
-
